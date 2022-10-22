@@ -23,7 +23,7 @@ const greeting = {
   username: "Syed Hussain",
   title: "Hi all, I'm Syed",
   subTitle: emoji(
-    "A passionate Frontend Developer / Designer 🚀 having an experience of building Web applications with JavaScript / Reactjs and some other cool libraries and frameworks. As Cybersecurity researcher 🚀 got acknowledged by million dollar companies"
+    "A passionate Frontend Developer / Designer 🚀 having an experience of building Web applications with JavaScript / Reactjs and some other cool libraries and frameworks. As Cybersecurity researcher 🚀 got acknowledged by million dollar companies & As Mentor 🚀 trained more than 10 peoples for dev."
   ),
   resumeLink: "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -59,7 +59,8 @@ const skillsSection = {
     emoji(
       "⚡ As cybersecurity researcher protect organisation from malicious action"
     ),
-    emoji("⚡ Acknowledged by million dollar companies")
+    emoji("⚡ Acknowledged by million dollar companies"),
+    emoji("⚡ As mentor trained 10+ persons for dev role")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon

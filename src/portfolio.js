@@ -32,12 +32,12 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/PeerSyedHussain",
+  github: "",
   linkedin: "https://www.linkedin.com/in/peer-syed-hussain-s-91a625181/",
   gmail: "devsyed04@gmail.com",
   gitlab: "",
   facebook: "",
-  medium: "https://medium.com/@syedhussy",
+  medium: "",
   stackoverflow: "",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
